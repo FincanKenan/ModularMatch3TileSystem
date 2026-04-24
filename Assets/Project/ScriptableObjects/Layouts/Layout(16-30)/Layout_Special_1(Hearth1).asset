@@ -1,0 +1,242 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6a23a505127a8a4f8ba459b786c93ef, type: 3}
+  m_Name: Layout_Special_1(Hearth1)
+  m_EditorClassIdentifier: 
+  layoutId: Special_1
+  category: 1
+  groups:
+  - groupId: Hearth_RightMain
+    role: 1
+    startLocked: 0
+    points:
+    - pointId: R1-S1H1-Point_1
+      stackDirection: 3
+      stackLayoutMode: 1
+      visibilityMode: 0
+      startsLocked: 0
+      requiredCompletedPointIds: []
+      minStackHeight: 4
+      maxStackHeight: 4
+      note: 
+    - pointId: R1-S1H1-Point_2
+      stackDirection: 3
+      stackLayoutMode: 1
+      visibilityMode: 0
+      startsLocked: 0
+      requiredCompletedPointIds: []
+      minStackHeight: 4
+      maxStackHeight: 4
+      note: 
+    - pointId: R1-S1H1-Point_3
+      stackDirection: 4
+      stackLayoutMode: 1
+      visibilityMode: 0
+      startsLocked: 1
+      requiredCompletedPointIds:
+      - R1-S1H1-Point_1
+      minStackHeight: 6
+      maxStackHeight: 6
+      note: 
+    - pointId: R1-S1H1-Point_4
+      stackDirection: 4
+      stackLayoutMode: 1
+      visibilityMode: 0
+      startsLocked: 1
+      requiredCompletedPointIds:
+      - R1-S1H1-Point_2
+      minStackHeight: 6
+      maxStackHeight: 6
+      note: 
+    - pointId: R1-S1H1-Point_5
+      stackDirection: 3
+      stackLayoutMode: 1
+      visibilityMode: 0
+      startsLocked: 0
+      requiredCompletedPointIds: []
+      minStackHeight: 4
+      maxStackHeight: 4
+      note: 
+    - pointId: R1-S1H1-Point_6
+      stackDirection: 3
+      stackLayoutMode: 1
+      visibilityMode: 0
+      startsLocked: 0
+      requiredCompletedPointIds: []
+      minStackHeight: 4
+      maxStackHeight: 4
+      note: 
+    - pointId: R1-S1H1-Point_7
+      stackDirection: 4
+      stackLayoutMode: 1
+      visibilityMode: 0
+      startsLocked: 1
+      requiredCompletedPointIds:
+      - R1-S1H1-Point_5
+      minStackHeight: 6
+      maxStackHeight: 6
+      note: 
+    - pointId: R1-S1H1-Point_8
+      stackDirection: 4
+      stackLayoutMode: 1
+      visibilityMode: 0
+      startsLocked: 1
+      requiredCompletedPointIds:
+      - R1-S1H1-Point_6
+      minStackHeight: 6
+      maxStackHeight: 6
+      note: 
+    - pointId: R1-S1H1-Point_9
+      stackDirection: 2
+      stackLayoutMode: 0
+      visibilityMode: 0
+      startsLocked: 0
+      requiredCompletedPointIds: []
+      minStackHeight: 4
+      maxStackHeight: 5
+      note: 
+    - pointId: R1-S1H1-Point_10
+      stackDirection: 2
+      stackLayoutMode: 0
+      visibilityMode: 0
+      startsLocked: 1
+      requiredCompletedPointIds:
+      - R1-S1H1-Point_5
+      - R1-S1H1-Point_6
+      - R1-S1H1-Point_7
+      - R1-S1H1-Point_8
+      minStackHeight: 4
+      maxStackHeight: 5
+      note: 
+    - pointId: R1-S1H1-Point_11
+      stackDirection: 2
+      stackLayoutMode: 0
+      visibilityMode: 0
+      startsLocked: 1
+      requiredCompletedPointIds:
+      - R1-S1H1-Point_10
+      minStackHeight: 4
+      maxStackHeight: 5
+      note: 
+    - pointId: R1-S1H1-Point_12
+      stackDirection: 2
+      stackLayoutMode: 0
+      visibilityMode: 0
+      startsLocked: 1
+      requiredCompletedPointIds:
+      - R1-S1H1-Point_10
+      minStackHeight: 4
+      maxStackHeight: 5
+      note: 
+    - pointId: R1-S1H1-Point_13
+      stackDirection: 2
+      stackLayoutMode: 0
+      visibilityMode: 0
+      startsLocked: 1
+      requiredCompletedPointIds:
+      - R1-S1H1-Point_4
+      - R1-S1H1-Point_2
+      - R1-S1H1-Point_18
+      minStackHeight: 4
+      maxStackHeight: 5
+      note: 
+    - pointId: R1-S1H1-Point_14
+      stackDirection: 2
+      stackLayoutMode: 0
+      visibilityMode: 0
+      startsLocked: 1
+      requiredCompletedPointIds:
+      - R1-S1H1-Point_13
+      minStackHeight: 4
+      maxStackHeight: 5
+      note: 
+    - pointId: R1-S1H1-Point_15
+      stackDirection: 2
+      stackLayoutMode: 0
+      visibilityMode: 0
+      startsLocked: 1
+      requiredCompletedPointIds:
+      - R1-S1H1-Point_9
+      minStackHeight: 4
+      maxStackHeight: 5
+      note: 
+    - pointId: R1-S1H1-Point_16
+      stackDirection: 4
+      stackLayoutMode: 1
+      visibilityMode: 0
+      startsLocked: 1
+      requiredCompletedPointIds:
+      - R1-S1H1-Point_14
+      minStackHeight: 6
+      maxStackHeight: 6
+      note: 
+    - pointId: R1-S1H1-Point_17
+      stackDirection: 2
+      stackLayoutMode: 0
+      visibilityMode: 0
+      startsLocked: 1
+      requiredCompletedPointIds:
+      - R1-S1H1-Point_1
+      - R1-S1H1-Point_3
+      - R1-S1H1-Point_15
+      minStackHeight: 4
+      maxStackHeight: 5
+      note: 
+    - pointId: R1-S1H1-Point_18
+      stackDirection: 2
+      stackLayoutMode: 0
+      visibilityMode: 0
+      startsLocked: 1
+      requiredCompletedPointIds:
+      - R1-S1H1-Point_19
+      minStackHeight: 4
+      maxStackHeight: 5
+      note: 
+    - pointId: R1-S1H1-Point_19
+      stackDirection: 2
+      stackLayoutMode: 0
+      visibilityMode: 0
+      startsLocked: 1
+      requiredCompletedPointIds:
+      - R1-S1H1-Point_17
+      minStackHeight: 4
+      maxStackHeight: 5
+      note: 
+    - pointId: R1-S1H1-Point_20
+      stackDirection: 2
+      stackLayoutMode: 0
+      visibilityMode: 0
+      startsLocked: 1
+      requiredCompletedPointIds:
+      - R1-S1H1-Point_5
+      - R1-S1H1-Point_7
+      minStackHeight: 4
+      maxStackHeight: 5
+      note: 
+    - pointId: R1-S1H1-Point_21
+      stackDirection: 0
+      stackLayoutMode: 0
+      visibilityMode: 1
+      startsLocked: 0
+      requiredCompletedPointIds: []
+      minStackHeight: 6
+      maxStackHeight: 8
+      note: 
+    - pointId: R1-S1H1-Point_22
+      stackDirection: 0
+      stackLayoutMode: 0
+      visibilityMode: 1
+      startsLocked: 0
+      requiredCompletedPointIds: []
+      minStackHeight: 6
+      maxStackHeight: 8
+      note: 

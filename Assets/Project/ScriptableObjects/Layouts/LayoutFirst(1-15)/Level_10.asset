@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6a23a505127a8a4f8ba459b786c93ef, type: 3}
+  m_Name: Level_10
+  m_EditorClassIdentifier: 
+  layoutId: Level_10
+  category: 0
+  groups:
+  - groupId: Group_01
+    role: 0
+    startLocked: 0
+    points:
+    - pointId: T10-N1-Point_1
+      stackDirection: 5
+      stackLayoutMode: 0
+      visibilityMode: 0
+      stackOpenDirection: 0
+      startsLocked: 0
+      requiredCompletedPointIds: []
+      minStackHeight: 9
+      maxStackHeight: 9
+      note: 
+    - pointId: T10-N1-Point_3
+      stackDirection: 5
+      stackLayoutMode: 0
+      visibilityMode: 0
+      stackOpenDirection: 1
+      startsLocked: 1
+      requiredCompletedPointIds:
+      - T10-N1-Point_2
+      minStackHeight: 9
+      maxStackHeight: 9
+      note: 
+    - pointId: T10-N1-Point_4
+      stackDirection: 4
+      stackLayoutMode: 0
+      visibilityMode: 0
+      stackOpenDirection: 4
+      startsLocked: 1
+      requiredCompletedPointIds:
+      - T10-N1-Point_3
+      minStackHeight: 9
+      maxStackHeight: 9
+      note: 
+    - pointId: T10-N1-Point_2
+      stackDirection: 4
+      stackLayoutMode: 0
+      visibilityMode: 0
+      stackOpenDirection: 0
+      startsLocked: 1
+      requiredCompletedPointIds:
+      - T10-N1-Point_1
+      minStackHeight: 9
+      maxStackHeight: 9
+      note: 
+    - pointId: T10-N1-Point_5
+      stackDirection: 0
+      stackLayoutMode: 0
+      visibilityMode: 1
+      stackOpenDirection: 0
+      startsLocked: 0
+      requiredCompletedPointIds: []
+      minStackHeight: 6
+      maxStackHeight: 6
+      note: 
+    - pointId: T10-N1-Point_6
+      stackDirection: 0
+      stackLayoutMode: 0
+      visibilityMode: 1
+      stackOpenDirection: 0
+      startsLocked: 0
+      requiredCompletedPointIds: []
+      minStackHeight: 6
+      maxStackHeight: 6
+      note: 

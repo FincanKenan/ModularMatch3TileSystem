@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e877c6b3610eaad4a8f0f6b7ca66e300, type: 3}
+  m_Name: LevelRangeRule_031_050(Normal2)
+  m_EditorClassIdentifier: 
+  minLevel: 31
+  maxLevel: 50
+  tileBag: {fileID: 11400000, guid: 94baa5283ae17af408dcafd0413692c3, type: 2}
+  backgroundLayerBottom: {fileID: 3229507492666951288, guid: 9872d30bcc8badb4f8031c854c366476, type: 3}
+  backgroundLayerTop: {fileID: -8985808423211435256, guid: 40370233a2d8ef34eacfcd5aca86c3e3, type: 3}
+  minTotalTiles: 48
+  maxTotalTiles: 90
+  allowedNormalLayouts:
+  - layout: {fileID: 11400000, guid: d7d843641ca2237429995ff70de17f91, type: 2}
+    weight: 5
+  allowedSpecialLayouts:
+  - layout: {fileID: 11400000, guid: 7c208c9b6601eeb439150efcc7cff842, type: 2}
+    weight: 1

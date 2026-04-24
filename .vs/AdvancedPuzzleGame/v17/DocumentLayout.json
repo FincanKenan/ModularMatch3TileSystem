@@ -1,0 +1,558 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\assets\\project\\scripts\\gameplay\\levelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\scripts\\gameplay\\levelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\assets\\project\\scripts\\ui\\tileflytotrayanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\scripts\\ui\\tileflytotrayanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|c:\\work\\unity\\advancedblockgame_v2_clean\\advancedpuzzlegame\\assets\\project\\scripts\\ui\\magicburstautodestroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\scripts\\ui\\magicburstautodestroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\assets\\project\\scripts\\gameplay\\booster\\boostermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\scripts\\gameplay\\booster\\boostermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\assets\\project\\scripts\\runtime\\boardstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\scripts\\runtime\\boardstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\assets\\project\\scripts\\gameplay\\traycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\scripts\\gameplay\\traycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\assets\\project\\scripts\\gameplay\\traystate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\scripts\\gameplay\\traystate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\assets\\project\\scripts\\gameplay\\booster\\boostertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\scripts\\gameplay\\booster\\boostertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\assets\\project\\scripts\\runtime\\boardspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\scripts\\runtime\\boardspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\assets\\project\\scripts\\runtime\\boardstackview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\scripts\\runtime\\boardstackview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\assets\\project\\scripts\\ui\\tileflybackanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\scripts\\ui\\tileflybackanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\assets\\project\\scripts\\runtime\\boardtilevisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\scripts\\runtime\\boardtilevisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\assets\\project\\scripts\\data\\stackdirection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\scripts\\data\\stackdirection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\assets\\project\\scripts\\gameplay\\boardinputcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\scripts\\gameplay\\boardinputcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\assets\\project\\scripts\\ui\\trayview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\scripts\\ui\\trayview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\assets\\project\\scripts\\ui\\boosterbuttonui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\scripts\\ui\\boosterbuttonui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\assets\\project\\scripts\\authoring\\boardpointanchor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\scripts\\authoring\\boardpointanchor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\assets\\project\\scripts\\ui\\traymatchbursteffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\scripts\\ui\\traymatchbursteffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\assets\\project\\scripts\\data\\spawngroupdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\scripts\\data\\spawngroupdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\assets\\project\\scripts\\data\\stacklayoutmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\scripts\\data\\stacklayoutmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\assets\\project\\scripts\\data\\weightedlayoutreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\scripts\\data\\weightedlayoutreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\assets\\project\\scripts\\data\\tilebagso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\scripts\\data\\tilebagso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\assets\\project\\scripts\\data\\boardlayoutso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\scripts\\data\\boardlayoutso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\assets\\project\\scripts\\data\\fixedlevelso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\scripts\\data\\fixedlevelso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\assets\\project\\scripts\\data\\fixedleveldatabaseso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\scripts\\data\\fixedleveldatabaseso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\assets\\project\\scripts\\data\\levelgenerationdatabaseso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\scripts\\data\\levelgenerationdatabaseso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\assets\\project\\scripts\\data\\levelrangeruleso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\scripts\\data\\levelrangeruleso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\assets\\project\\scripts\\runtime\\boardgenerationmath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\scripts\\runtime\\boardgenerationmath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\assets\\project\\scripts\\runtime\\backgroundpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\scripts\\runtime\\backgroundpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\assets\\project\\scripts\\data\\stackvisibilitymode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\scripts\\data\\stackvisibilitymode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\assets\\project\\scripts\\runtime\\tiletripledistributionbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\scripts\\runtime\\tiletripledistributionbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\assets\\project\\scripts\\data\\tiletypeso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\scripts\\data\\tiletypeso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\assets\\project\\scripts\\runtime\\boardtileinstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C23684-2C5C-DF8D-9CDC-2BE4AEBE89F2}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\scripts\\runtime\\boardtileinstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MagicBurstAutoDestroy.cs",
+              "DocumentMoniker": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\UI\\MagicBurstAutoDestroy.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Scripts\\UI\\MagicBurstAutoDestroy.cs",
+              "ToolTip": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\UI\\MagicBurstAutoDestroy.cs",
+              "RelativeToolTip": "Assets\\Project\\Scripts\\UI\\MagicBurstAutoDestroy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T15:28:09.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BoosterType.cs",
+              "DocumentMoniker": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\GamePlay\\Booster\\BoosterType.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Scripts\\GamePlay\\Booster\\BoosterType.cs",
+              "ToolTip": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\GamePlay\\Booster\\BoosterType.cs",
+              "RelativeToolTip": "Assets\\Project\\Scripts\\GamePlay\\Booster\\BoosterType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T04:09:38.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BoardStackView.cs",
+              "DocumentMoniker": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\Runtime\\BoardStackView.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Scripts\\Runtime\\BoardStackView.cs",
+              "ToolTip": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\Runtime\\BoardStackView.cs",
+              "RelativeToolTip": "Assets\\Project\\Scripts\\Runtime\\BoardStackView.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAiwKYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T19:04:47.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TrayMatchBurstEffect.cs",
+              "DocumentMoniker": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\UI\\TrayMatchBurstEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Scripts\\UI\\TrayMatchBurstEffect.cs",
+              "ToolTip": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\UI\\TrayMatchBurstEffect.cs",
+              "RelativeToolTip": "Assets\\Project\\Scripts\\UI\\TrayMatchBurstEffect.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T01:24:24.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BoosterManager.cs",
+              "DocumentMoniker": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\GamePlay\\Booster\\BoosterManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Scripts\\GamePlay\\Booster\\BoosterManager.cs",
+              "ToolTip": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\GamePlay\\Booster\\BoosterManager.cs",
+              "RelativeToolTip": "Assets\\Project\\Scripts\\GamePlay\\Booster\\BoosterManager.cs",
+              "ViewState": "AgIAABIBAAAAAAAAAAAqwCMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T04:09:54.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TileFlyBackAnimator.cs",
+              "DocumentMoniker": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\UI\\TileFlyBackAnimator.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Scripts\\UI\\TileFlyBackAnimator.cs",
+              "ToolTip": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\UI\\TileFlyBackAnimator.cs",
+              "RelativeToolTip": "Assets\\Project\\Scripts\\UI\\TileFlyBackAnimator.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T14:55:31.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BoardTileVisual.cs",
+              "DocumentMoniker": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\Runtime\\BoardTileVisual.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Scripts\\Runtime\\BoardTileVisual.cs",
+              "ToolTip": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\Runtime\\BoardTileVisual.cs",
+              "RelativeToolTip": "Assets\\Project\\Scripts\\Runtime\\BoardTileVisual.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T05:04:54.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BoardSpawner.cs",
+              "DocumentMoniker": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\Runtime\\BoardSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Scripts\\Runtime\\BoardSpawner.cs",
+              "ToolTip": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\Runtime\\BoardSpawner.cs",
+              "RelativeToolTip": "Assets\\Project\\Scripts\\Runtime\\BoardSpawner.cs",
+              "ViewState": "AgIAAJYBAAAAAAAAAAAiwM0BAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T19:05:14.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LevelController.cs",
+              "DocumentMoniker": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\GamePlay\\LevelController.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Scripts\\GamePlay\\LevelController.cs",
+              "ToolTip": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\GamePlay\\LevelController.cs",
+              "RelativeToolTip": "Assets\\Project\\Scripts\\GamePlay\\LevelController.cs",
+              "ViewState": "AgIAAOIAAAAAAAAAAAAEwAQBAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T05:07:58.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TileFlyToTrayAnimator.cs",
+              "DocumentMoniker": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\UI\\TileFlyToTrayAnimator.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Scripts\\UI\\TileFlyToTrayAnimator.cs",
+              "ToolTip": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\UI\\TileFlyToTrayAnimator.cs",
+              "RelativeToolTip": "Assets\\Project\\Scripts\\UI\\TileFlyToTrayAnimator.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAqwJ0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T01:01:36.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TrayState.cs",
+              "DocumentMoniker": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\GamePlay\\TrayState.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Scripts\\GamePlay\\TrayState.cs",
+              "ToolTip": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\GamePlay\\TrayState.cs",
+              "RelativeToolTip": "Assets\\Project\\Scripts\\GamePlay\\TrayState.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAqwI4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T05:06:08.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TrayController.cs",
+              "DocumentMoniker": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\GamePlay\\TrayController.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Scripts\\GamePlay\\TrayController.cs",
+              "ToolTip": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\GamePlay\\TrayController.cs",
+              "RelativeToolTip": "Assets\\Project\\Scripts\\GamePlay\\TrayController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAqwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T05:07:17.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BoardStack.cs",
+              "DocumentMoniker": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\Runtime\\BoardStack.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Scripts\\Runtime\\BoardStack.cs",
+              "ToolTip": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\Runtime\\BoardStack.cs",
+              "RelativeToolTip": "Assets\\Project\\Scripts\\Runtime\\BoardStack.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAqwH8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T19:04:16.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SpawnGroupDefinition.cs",
+              "DocumentMoniker": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\Data\\SpawnGroupDefinition.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Scripts\\Data\\SpawnGroupDefinition.cs",
+              "ToolTip": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\Data\\SpawnGroupDefinition.cs",
+              "RelativeToolTip": "Assets\\Project\\Scripts\\Data\\SpawnGroupDefinition.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAzwFIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T18:46:08.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BoardLayoutSO.cs",
+              "DocumentMoniker": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\Data\\BoardLayoutSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Scripts\\Data\\BoardLayoutSO.cs",
+              "ToolTip": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\Data\\BoardLayoutSO.cs",
+              "RelativeToolTip": "Assets\\Project\\Scripts\\Data\\BoardLayoutSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T18:46:50.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BoardInputController.cs",
+              "DocumentMoniker": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\GamePlay\\BoardInputController.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Scripts\\GamePlay\\BoardInputController.cs",
+              "ToolTip": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\GamePlay\\BoardInputController.cs",
+              "RelativeToolTip": "Assets\\Project\\Scripts\\GamePlay\\BoardInputController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwCsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T05:07:39.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TrayView.cs",
+              "DocumentMoniker": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\UI\\TrayView.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Scripts\\UI\\TrayView.cs",
+              "ToolTip": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\UI\\TrayView.cs",
+              "RelativeToolTip": "Assets\\Project\\Scripts\\UI\\TrayView.cs",
+              "ViewState": "AgIAAGEBAAAAAAAAAAAYwHYBAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T05:06:53.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WeightedLayoutReference.cs",
+              "DocumentMoniker": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\Data\\WeightedLayoutReference.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Scripts\\Data\\WeightedLayoutReference.cs",
+              "ToolTip": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\Data\\WeightedLayoutReference.cs",
+              "RelativeToolTip": "Assets\\Project\\Scripts\\Data\\WeightedLayoutReference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T02:40:16.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TileBagSO.cs",
+              "DocumentMoniker": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\Data\\TileBagSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Scripts\\Data\\TileBagSO.cs",
+              "ToolTip": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\Data\\TileBagSO.cs",
+              "RelativeToolTip": "Assets\\Project\\Scripts\\Data\\TileBagSO.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAiwD0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T19:09:06.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StackLayoutMode.cs",
+              "DocumentMoniker": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\Data\\StackLayoutMode.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Scripts\\Data\\StackLayoutMode.cs",
+              "ToolTip": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\Data\\StackLayoutMode.cs",
+              "RelativeToolTip": "Assets\\Project\\Scripts\\Data\\StackLayoutMode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T15:06:37.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StackDirection.cs",
+              "DocumentMoniker": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\Data\\StackDirection.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Scripts\\Data\\StackDirection.cs",
+              "ToolTip": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\Data\\StackDirection.cs",
+              "RelativeToolTip": "Assets\\Project\\Scripts\\Data\\StackDirection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T02:01:11.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BoosterButtonUI.cs",
+              "DocumentMoniker": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\UI\\BoosterButtonUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Scripts\\UI\\BoosterButtonUI.cs",
+              "ToolTip": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\UI\\BoosterButtonUI.cs",
+              "RelativeToolTip": "Assets\\Project\\Scripts\\UI\\BoosterButtonUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T04:10:20.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BoardPointAnchor.cs",
+              "DocumentMoniker": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\Authoring\\BoardPointAnchor.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Scripts\\Authoring\\BoardPointAnchor.cs",
+              "ToolTip": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\Authoring\\BoardPointAnchor.cs",
+              "RelativeToolTip": "Assets\\Project\\Scripts\\Authoring\\BoardPointAnchor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T18:47:31.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "StackVisibilityMode.cs",
+              "DocumentMoniker": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\Data\\StackVisibilityMode.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Scripts\\Data\\StackVisibilityMode.cs",
+              "ToolTip": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\Data\\StackVisibilityMode.cs",
+              "RelativeToolTip": "Assets\\Project\\Scripts\\Data\\StackVisibilityMode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T03:28:20.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LevelGenerationDatabaseSO.cs",
+              "DocumentMoniker": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\Data\\LevelGenerationDatabaseSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Scripts\\Data\\LevelGenerationDatabaseSO.cs",
+              "ToolTip": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\Data\\LevelGenerationDatabaseSO.cs",
+              "RelativeToolTip": "Assets\\Project\\Scripts\\Data\\LevelGenerationDatabaseSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T21:17:23.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LevelRangeRuleSO.cs",
+              "DocumentMoniker": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\Data\\LevelRangeRuleSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Scripts\\Data\\LevelRangeRuleSO.cs",
+              "ToolTip": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\Data\\LevelRangeRuleSO.cs",
+              "RelativeToolTip": "Assets\\Project\\Scripts\\Data\\LevelRangeRuleSO.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAADwvzYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T21:17:01.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BoardTileInstance.cs",
+              "DocumentMoniker": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\Runtime\\BoardTileInstance.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Scripts\\Runtime\\BoardTileInstance.cs",
+              "ToolTip": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\Runtime\\BoardTileInstance.cs",
+              "RelativeToolTip": "Assets\\Project\\Scripts\\Runtime\\BoardTileInstance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T19:03:50.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FixedLevelSO.cs",
+              "DocumentMoniker": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\Data\\FixedLevelSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Scripts\\Data\\FixedLevelSO.cs",
+              "ToolTip": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\Data\\FixedLevelSO.cs",
+              "RelativeToolTip": "Assets\\Project\\Scripts\\Data\\FixedLevelSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T01:04:24.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FixedLevelDatabaseSO.cs",
+              "DocumentMoniker": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\Data\\FixedLevelDatabaseSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Scripts\\Data\\FixedLevelDatabaseSO.cs",
+              "ToolTip": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\Data\\FixedLevelDatabaseSO.cs",
+              "RelativeToolTip": "Assets\\Project\\Scripts\\Data\\FixedLevelDatabaseSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T01:04:51.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TileTypeSO.cs",
+              "DocumentMoniker": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\Data\\TileTypeSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Scripts\\Data\\TileTypeSO.cs",
+              "ToolTip": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\Data\\TileTypeSO.cs",
+              "RelativeToolTip": "Assets\\Project\\Scripts\\Data\\TileTypeSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T19:08:51.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BoardGenerationMath.cs",
+              "DocumentMoniker": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\Runtime\\BoardGenerationMath.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Scripts\\Runtime\\BoardGenerationMath.cs",
+              "ToolTip": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\Runtime\\BoardGenerationMath.cs",
+              "RelativeToolTip": "Assets\\Project\\Scripts\\Runtime\\BoardGenerationMath.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T21:18:40.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BackgroundPresenter.cs",
+              "DocumentMoniker": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\Runtime\\BackgroundPresenter.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Scripts\\Runtime\\BackgroundPresenter.cs",
+              "ToolTip": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\Runtime\\BackgroundPresenter.cs",
+              "RelativeToolTip": "Assets\\Project\\Scripts\\Runtime\\BackgroundPresenter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T04:15:45.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TileTripleDistributionBuilder.cs",
+              "DocumentMoniker": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\Runtime\\TileTripleDistributionBuilder.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Scripts\\Runtime\\TileTripleDistributionBuilder.cs",
+              "ToolTip": "C:\\Work\\Unity\\AdvancedBlockGame_V2_CLEAN\\AdvancedPuzzleGame\\Assets\\Project\\Scripts\\Runtime\\TileTripleDistributionBuilder.cs",
+              "RelativeToolTip": "Assets\\Project\\Scripts\\Runtime\\TileTripleDistributionBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T21:45:45.173Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

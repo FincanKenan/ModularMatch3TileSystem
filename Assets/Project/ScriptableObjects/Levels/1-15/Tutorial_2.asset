@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df2abb707c4edb34a9c5f90addb187d6, type: 3}
+  m_Name: Tutorial_2
+  m_EditorClassIdentifier: 
+  levelNumber: 2
+  layout: {fileID: 11400000, guid: 833c37973ccf473488901cef5c947612, type: 2}
+  tileBag: {fileID: 11400000, guid: cd127de0ec63c97468b9701c956070a7, type: 2}
+  useBackgroundOverride: 0
+  backgroundLayerBottomOverride: {fileID: -7758987736131382979, guid: 32c77536f63970645baf5577785f3554, type: 3}
+  backgroundLayerTopOverride: {fileID: -8078968449097588848, guid: f8cc83ec7189b654c8f0e56d761c6f79, type: 3}
