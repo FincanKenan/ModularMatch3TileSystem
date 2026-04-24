@@ -1,6 +1,6 @@
-# 🧩 Match-3 Tile System Prototype (Unity)
+# 🧩 Modular Match-3 Tile System Prototype (Unity)
 
-A Unity-based puzzle prototype focused on **grid-based mechanics**, **match systems**, and **interactive gameplay elements**.
+A modular Match-3 tile system demonstrating stacking, selection, and match mechanics.
 
 ---
 
