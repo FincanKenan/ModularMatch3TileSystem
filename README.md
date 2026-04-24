@@ -34,7 +34,7 @@ It serves as a foundation for more advanced puzzle systems such as **Zen Match /
 
 ### 🧩 Core Mechanics
 
-<img width="500" height="700" alt="image" src="https://github.com/user-attachments/assets/aab52e12-9cda-4422-8e18-2d65cc9177d2" />
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/aab52e12-9cda-4422-8e18-2d65cc9177d2" />
 
 Basic grid interaction and tile placement.
 
