@@ -28,7 +28,40 @@ It serves as a foundation for more advanced puzzle systems such as **Zen Match /
 ---
 
 ## 🎮 Gameplay
+---
 
+## 🎮 Gameplay Showcase
+
+### 🧩 Core Mechanics
+
+<img width="855" height="1252" alt="image" src="https://github.com/user-attachments/assets/aab52e12-9cda-4422-8e18-2d65cc9177d2" />
+
+Basic grid interaction and tile placement.
+
+---
+
+### ⚔️ Match & Interaction
+
+<img width="828" height="1249" alt="image" src="https://github.com/user-attachments/assets/dedb238c-1542-49ec-a952-d100aeff4d0c" />
+
+Tile matching and interaction feedback system.
+---
+
+### 🔄 Game Flow
+
+<img width="826" height="1251" alt="image" src="https://github.com/user-attachments/assets/092c8118-8ec2-4044-80b3-59c4f5bf029d" />
+
+Core gameplay loop in action (selection → match → clear).
+
+---
+
+### 🗺️ Level Structure
+
+<img width="2141" height="1358" alt="image" src="https://github.com/user-attachments/assets/c53d6da9-eedc-4344-b43b-101294ab338e" />
+
+Example of grid layout and level structure.
+
+---
 ### 🧩 Mechanics
 Basic match-based interactions where the player selects tiles and triggers matching logic.
 
