@@ -57,7 +57,7 @@ Core gameplay loop in action (selection → match → clear).
 
 ### 🗺️ Level Structure
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/c53d6da9-eedc-4344-b43b-101294ab338e" />
+<img width="750" alt="image" src="https://github.com/user-attachments/assets/c53d6da9-eedc-4344-b43b-101294ab338e" />
 
 Example of grid layout and level structure.
 
