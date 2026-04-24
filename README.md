@@ -1,4 +1,4 @@
-# 🧩 Modular Match-3 Tile System Prototype (Unity)
+# 🧩 Modular Match-3 Tile System (Unity)
 
 A modular Match-3 tile system demonstrating stacking, selection, and match mechanics.
 
