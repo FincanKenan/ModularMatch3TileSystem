@@ -42,7 +42,7 @@ Basic grid interaction and tile placement.
 
 ### ⚔️ Match & Interaction
 
-<img width="500" height="700" alt="image" src="https://github.com/user-attachments/assets/dedb238c-1542-49ec-a952-d100aeff4d0c" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/dedb238c-1542-49ec-a952-d100aeff4d0c" />
 
 Tile matching and interaction feedback system.
 ---
